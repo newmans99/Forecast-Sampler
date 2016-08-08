@@ -3,12 +3,12 @@ An example Qlik Sense application that demonstrates forecasting capabilities.
 
 # Implementation
 **For Qlik Sense Desktop:**
-1. Download the "Forecast Sampler.qvf" [latest version](https://github.com/newmans99/Forecast-Sampler/raw/master/Forecast Sampler.qvf) file
+1. Download the ["Forecast Sampler.qvf"](https://github.com/newmans99/Forecast-Sampler/raw/master/Forecast Sampler.qvf) file.
 2. Save it in your ../My Documents/Qlik/Apps" folder.
 3. From Qlik Sense Hub, open the "Forecast Sampler" app and interact/review the Forecast Sampler Sheet.
 
 **For Qlik Sense Server:**
-1. Download the "Forecast Sampler.qvf" [latest version](https://github.com/newmans99/Forecast-Sampler/raw/master/Forecast Sampler.qvf) file
+1. Download the ["Forecast Sampler.qvf"](https://github.com/newmans99/Forecast-Sampler/raw/master/Forecast Sampler.qvf) file
 2. From QMC, upload the downlaoded app.
 3. From Qlik Sense Hub, open the "Forecast Sampler" app and interact/review the Forecast Sampler Sheet.
 
