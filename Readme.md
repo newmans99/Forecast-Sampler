@@ -1,6 +1,6 @@
 # Forecast Sampler
 An example Qlik Sense application that demonstrates forecasting capabilities.
-> ![](Forecast Sampler Sheet.png)
+> ![](Forecast Sampler Sheet.png) 
 
 # Implementation
 **For Qlik Sense Desktop:**
